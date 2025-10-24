@@ -1,0 +1,14 @@
+# Core dependencies
+typing-extensions>=4.0.0
+fastmcp>=0.1.0
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+flake8>=5.0.0
+mypy>=1.0.0
+
+# Optional: For enhanced type checking and static analysis
+bandit>=1.7.0
+safety>=2.0.0
